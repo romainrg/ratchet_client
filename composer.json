@@ -1,0 +1,28 @@
+{
+    "name": "romainrg/ratchet_client",
+    "keywords": [
+        "php7",
+        "php-library",
+        "codeigniter",
+        "websocket",
+        "realtime"
+    ],
+    "description": "CodeIgniter library who allow you to make powerfull applications with realtime interactions by using Websocket technology",
+    "homepage": "https://github.com/romainrg/ratchet_client",
+    "license": "GPL-3.0-or-later",
+    "type": "library",
+    "authors": [{
+        "name": "Romain GALLIEN",
+        "email": "romaingallien.rg@gmail.com",
+        "homepage": "http://www.romaingallien.fr/",
+        "role": "DevOps Engineer"
+    }],
+    "require": {
+        "php": ">=5.6.0",
+        "cboden/ratchet": "^0.4.1",
+        "textalk/websocket": "^1.2"
+    },
+    "support": {
+        "email": "romaingallien.rg@gmail.com"
+    }
+}
