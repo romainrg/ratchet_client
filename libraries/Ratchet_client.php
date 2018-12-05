@@ -17,7 +17,7 @@ use Ratchet\MessageComponentInterface;
  *
  * CodeIgniter library who allow you to make powerfull applications with realtime interactions by using Websocket technology and Ratchetphp
  */
-class Ratchet_websocket
+class Ratchet_client
 {
     /**
      * CI Super Instance
